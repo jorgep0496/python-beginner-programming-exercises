@@ -1,0 +1,12 @@
+{
+  "exercises/04-Multiply-Two-Values/test.py::test_for_file_output": true,
+  "exercises/04-Multiply-Two-Values/test.py::test_use_variable_name": true,
+  "exercises/05-User-Inputed-Values/test.py::test_t[[\"15\"]]": true,
+  "exercises/08-Your-First-If/test.py::test_between[<lambda>]": true,
+  "exercises/08-Your-First-If/test.py::test_for_less[<lambda>]": true,
+  "exercises/08-Your-First-If/test.py::test_for_more[[null]-<lambda>]": true,
+  "exercises/09-Random-Numbers/test.py::test_conditional": true,
+  "exercises/11-Create-A-New-Function/test.py::test_for_file_output": true,
+  "exercises/11-Create-A-New-Function/test.py::test_for_return": true,
+  "exercises/22-Bottles-Of-Milk/test.py::test_for_function_output": true
+}
